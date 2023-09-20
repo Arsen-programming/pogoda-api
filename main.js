@@ -54,3 +54,5 @@ searchInput.addEventListener("keydown", (event) => {
     searchInput.value = "";
   }
 });
+
+// закончил проект
